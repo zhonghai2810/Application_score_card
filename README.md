@@ -1,5 +1,7 @@
 # 信贷场景中什么是评分卡？
 
+  来源网页：https://blog.csdn.net/htbeker/article/details/79697557
+
   1、以分数的形式来衡量风险几率的一种手段
   
   2、对未来一段时间内违约/逾期/失联概率的预测
@@ -13,3 +15,5 @@
   jupyter运行带可视化结果请见：https://blog.csdn.net/htbeker/article/details/80936461
   
   数据：https://www.kaggle.com/c/GiveMeSomeCredit/data
+
+  
